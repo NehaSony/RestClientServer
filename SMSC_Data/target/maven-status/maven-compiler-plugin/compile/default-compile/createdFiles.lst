@@ -1,0 +1,12 @@
+com\smsc\data\in\smscData\model\ApplicationData.class
+com\smsc\data\in\smscData\Bo\MessageBoImpl.class
+com\smsc\data\in\smscData\model\Messages.class
+com\smsc\data\in\smscData\service\MessageServiceImpl.class
+com\smsc\data\in\smscData\Bo\MessageBo.class
+com\smsc\data\in\smscData\Dao\MessageDaoImpl.class
+com\smsc\data\in\smscData\Dao\MessageDao.class
+com\smsc\data\in\smscData\SmscDataApplication.class
+com\smsc\data\in\smscData\rest\MessageResource.class
+com\smsc\data\in\smscData\model\MessageData.class
+com\smsc\data\in\smscData\model\Address.class
+com\smsc\data\in\smscData\service\MessageService.class
